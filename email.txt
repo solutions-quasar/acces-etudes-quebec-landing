@@ -1,0 +1,34 @@
+Bonjour {{first_name}},
+
+Étudier au Québec, c'est l'aventure d'une vie. Mais entre l'admission dans une école, les démarches administratives (CAQ, permis d'études) et l'installation sur place, le projet peut vite paraître complexe.
+
+Chez Accès Études Québec, on s'occupe de tout pour que tu puisses te concentrer sur l'essentiel : ton expérience.
+
+CE QU'ON FAIT POUR TOI :
+- Choix du programme idéal dans l'une de nos écoles partenaires.
+- Gestion complète de ton dossier d'admission.
+- Accompagnement dans tes démarches administratives.
+- Aide pour ton logement, ton arrivée et ton installation.
+
+Pourquoi passer par nous ? Notre équipe est installée au Québec depuis plus de 10 ans. On connaît le terrain sur le bout des doigts et on t'évite les erreurs classiques qui font perdre des mois de préparation.
+
+PRÊT(E) À TENTER L'AVENTURE ?
+Réserve ton appel diagnostic gratuit (10-15 min) avec l'un de nos conseillers pour faire le point sur ton projet :
+{{student_call_url}}?utm_source={{utm_source}}&utm_medium={{utm_medium}}&utm_campaign={{utm_campaign}}
+
+Tu peux aussi télécharger notre guide complet ici :
+{{guide_url}}?utm_source={{utm_source}}&utm_medium={{utm_medium}}&utm_campaign={{utm_campaign}}
+
+Ou déposer une candidature directement :
+{{apply_url}}?utm_source={{utm_source}}&utm_medium={{utm_medium}}&utm_campaign={{utm_campaign}}
+
+À très vite au Canada !
+
+L'équipe d'Accès Études Québec
+---
+{{company_name}}
+{{physical_address}}
+{{sender_phone}} | {{sender_email}}
+
+Pour ne plus recevoir nos emails, cliquez ici : {{unsubscribe_url}}
+Vous recevez cet email car vous avez manifesté un intérêt pour les études au Québec.
