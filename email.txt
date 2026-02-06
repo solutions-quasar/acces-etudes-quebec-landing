@@ -26,9 +26,6 @@ Ou déposer une candidature directement :
 
 L'équipe d'Accès Études Québec
 ---
-{{company_name}}
-{{physical_address}}
-{{sender_phone}} | {{sender_email}}
 
 Pour ne plus recevoir nos emails, cliquez ici : {{unsubscribe_url}}
 Vous recevez cet email car vous avez manifesté un intérêt pour les études au Québec.
